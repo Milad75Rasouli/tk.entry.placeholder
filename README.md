@@ -13,6 +13,6 @@ To run project:
 cd <repository path>
 python tk_entry_placeholder.py
 ```
-
+Here you can see the result:
 ![the result](https://github.com/Milad75Rasouli/tk.entry.placeholder/blob/main/result.PNG?raw=true)
 
