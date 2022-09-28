@@ -14,5 +14,5 @@ cd <repository path>
 python tk_entry_placeholder.py
 ```
 
-(the result)[result.PNG]
+!(the result)[result.PNG]
 
