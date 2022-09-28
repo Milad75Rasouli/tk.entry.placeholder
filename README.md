@@ -14,5 +14,5 @@ cd <repository path>
 python tk_entry_placeholder.py
 ```
 
-!(the result)[https://github.com/Milad75Rasouli/tk.entry.placeholder/blob/main/result.PNG?raw=true]
+![the result](https://github.com/Milad75Rasouli/tk.entry.placeholder/blob/main/result.PNG?raw=true)
 
